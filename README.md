@@ -1,27 +1,16 @@
-# 👨🏻‍💻 Porfolio para programadores y desarrolladores
+# 👨🏻‍💻 Porfolio Juan Forero 👨🏻‍💻
 
-<div align="center">
-<a href="https://porfolio.dev/">
-<img src="./public/porfolio.webp">
-</a>
-<p></p>
-</div>
+## 📝 About Me
 
-<div align="center">
+- 🔭 I’m currently working on my **Frontend** and **Backend** development.
+- 🌱 I’m currently learning **JavaScript**.
+- 👯 I’m looking to collaborate on **Open Source** projects.
+- 🤔 I’m looking for help with **any** frontend related projects.
+- 💬 Ask me about **React**, **Node**, **Express**, **MongoDB**, **Mongoose**, **Next**, **TypeScript**, **Redux**, **Firebase**, **CSS**, **SCSS**, **Tailwind**, **Bootstrap**,**Git**, **GitHub**, **Progressive Web Apps**.
 
-![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
-![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
-![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
+## 📫 How to reach me
 
-</div>
-
-## 🫂 Contribuidores
-
-<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
-</a>
-
-<p></p>
+- 😄 Ask me about **anything**.
+- 📮 Send me an **[email](mailto:juan.forero@gmail.com)**.
+- 💬 Ask me about **[Twitter](https://x.com/DevjuancaForero)**.
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/juan-carlos-forero-4165b51ab/)**.
