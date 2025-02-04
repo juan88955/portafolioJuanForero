@@ -1,0 +1,56 @@
+---
+const personalImageAlt = "Miguel Ángel";
+import Badge from "@/components/Badge.astro";
+import LinkedInIcon from "@/components/icons/LinkedIn.astro";
+import MailIcon from "@/components/icons/Mail.astro";
+import SocialPill from "@/components/SocialPill.astro";
+import GitHub from "./icons/GitHub.astro";
+---
+
+<div class="max-w-xl">
+  <div class="flex gap-6 mb-6">
+    <img
+      class="rounded-full shadow-lg size-16"
+      src="/juandev.png"
+      alt={personalImageAlt}
+    />
+    <a
+      href="https://www.linkedin.com/in/juan-carlos-forero-4165b51ab/"
+      target="_blank"
+      rel="noopener"
+      class="flex items-center transition md:justify-center md:hover:scale-105"
+    >
+      <Badge>Disponible para trabajar</Badge>
+    </a>
+  </div>
+  <h1
+    class="text-4xl font-bold tracking-tight text-gray-800 sm:text-5xl dark:text-white"
+  >
+    Hola, soy Juan Forero
+  </h1>
+  <p
+    class="mt-6 text-xl text-gray-800 dark:[&>strong]:text-yellow-200 [&>strong]:text-yellow-500 [&>strong]:font-semibold dark:text-gray-300"
+  >
+    Desarrollador Web Full Stack, con gran pasión por la programación y la
+    creación de soluciones innovadoras. <strong
+      >Especializándome en el stack MERN (MongoDB, Express.js, React y Node.js)</strong
+    > y enfocado en aprender y crecer en el desarrollo de aplicaciones web únicas
+    y centradas en el usuario.
+  </p>
+  <nav class="flex flex-wrap gap-4 mt-8">
+    <SocialPill href="mailto:juan.forero66@gmail.com">
+      <MailIcon class="size-4" />
+      Contáctame
+    </SocialPill>
+    <SocialPill
+      href="https://www.linkedin.com/in/juan-carlos-forero-4165b51ab/"
+    >
+      <LinkedInIcon class="size-4" />
+      LinkedIn
+    </SocialPill>
+    <SocialPill href="https://github.com/juan88955">
+      <GitHub class="size-4" />
+      GitHub
+    </SocialPill>
+  </nav>
+</div>
